@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VwLab - 官方主页</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: #000;
+      color: #f2f2f2;
+    }
+    header {
+      background-color: rgba(0, 0, 0, 0.85);
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-bottom: 2px solid #4caf50;
+    }
+    header h1 {
+      font-size: 1.8em;
+      color: #4caf50;
+      margin: 0;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+      background-color: rgba(0, 0, 0, 0.7);
+      border-radius: 12px;
+      box-shadow: 0 0 15px #00ffff33;
+      margin-top: 30px;
+    }
+    .telegram {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+      background-color: #1e1e1e;
+      padding: 15px;
+      border-left: 5px solid #00bcd4;
+      border-radius: 6px;
+    }
+    .telegram a {
+      color: #00eaff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .telegram a:hover {
+      text-decoration: underline;
+    }
+    .section-title {
+      color: #00ffcc;
+      border-bottom: 1px solid #00ffcc;
+      margin-top: 20px;
+      font-size: 1.4em;
+    }
+    .cyber-section {
+      margin-top: 40px;
+      padding: 20px;
+      background-color: #111;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #00ffaa33;
+    }
+    .cyber-section h2 {
+      color: #00ffaa;
+      font-size: 1.4em;
+      margin-bottom: 10px;
+    }
+    .crypto-icons {
+      display: flex;
+      gap: 20px;
+      margin-top: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .crypto-icon {
+      color: #fff;
+      font-size: 1.2em;
+      padding: 8px 16px;
+      background-color: #222;
+      border-radius: 8px;
+      border: 1px solid #00ffaa;
+      transition: transform 0.2s ease-in-out;
+    }
+    .crypto-icon:hover {
+      transform: scale(1.1);
+    }
+    @media (max-width: 600px) {
+      header {
+        flex-direction: column;
+        align-items: center;
+      }
+      .container {
+        padding: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🚀 VwLab 防失联主页 🧪</h1>
+  </header>
+
+  <div class="container">
+    <div class="telegram">
+      当前Telegram官方频道📢：<a href="https://t.me/vwlab" target="_blank">@VwLab</a><br>
+      官方客服🛎️：<a href="https://t.me/vwkefu" target="_blank">@VwKeFu</a><br>
+      双向机器人🤖：<a href="https://t.me/vwlabbot" target="_blank">@VwLabBot</a><br>
+      <p style="font-size: 20px;">⚠️ 为防止官方销号失联，如果账号变更，会在此处第一时间更新，请务必保存本页网址！！！
+    </div>
+    <div>
+      <div class="section-title">公司介绍 🏢</div>
+      <p><p style="font-size: 20px;"><strong>VwLab 总部坐落在 印度-加尔各答🇮🇳<p>
+	  <p>
+	 
+	   <details><summary>点击这里展开详细介绍</summary>我们专注于研究型化学品的技术公司🧬，致力于为科研、分析与实验室用途提供稳定、专业的一手货源渠道。我们不断创新⚗️，只为更高的品质与效率📈。</p>
+	  
+      <p>我们的优势💎：我们拥有专业的化学实验室🧪、严格的质量控制体系🧰，区别于市面上小作坊式。我们能够将产品合法送达北美🌎、东南亚🌏、欧洲🌍、澳洲等多个国家和地区。</p>
+ </details>
+      <div class="section-title">合法合规承诺 ✅</div>
+      <p>我们郑重声明📜：VwLab 绝不出售任何法律法规定义的危险品☣️、管制化学品、有毒💀或前体化学品。所有产品仅限用于合法研究和开发用途🧑‍🔬。我们严格遵守当地法规，以维护公众安全和健康。🔐</p>
+   
+	</div>
+
+    <div class="cyber-section">
+      <h2>🧠 Cyber & Elemental Vibes ⚛️</h2>
+      <p>我们拥有专业的实验室团队👨‍💻、网络安全团队💱，并且支持以下加密支付方式：</p>
+      <div class="crypto-icons">
+        <div class="crypto-icon">💵 XMR</div>
+        <div class="crypto-icon">✅ USDT</div>
+        <div class="crypto-icon">🕵️‍♂️ 网络安全</div>
+        <div class="crypto-icon">🔐 PGP 加密支持</div>
+        <div class="crypto-icon">🧪 专业实验室</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
